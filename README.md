@@ -1,4 +1,4 @@
-# Email and password validator
+# Email and password validator 
 
 O projeto consiste em um formulário de registro que valida o email e a senha inseridos pelo usuário. Ele utiliza HTML, CSS e JavaScript para criar a interface do usuário e implementar a lógica de validação.
 
