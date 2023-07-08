@@ -24,7 +24,7 @@ O arquivo CSS contém estilos para tornar o formulário visualmente agradável. 
 - Estilização do botão de registro com cor de fundo e efeito de hover.
 
 ### JavaScript (index.js)
-O código JavaScript adiciona interatividade ao formulário, validando o email e a senha inseridos pelo usuário. Aqui está uma explicação detalhada das principais partes do código:
+O código JavaScript adiciona interatividade ao formulário, validando o email e a senha inseridos pelo usuário. Aqui está uma explicação detalhada das principais partes do código: 
 
 - `validateEmail(email)`: Esta função recebe um email como parâmetro e verifica se ele corresponde ao padrão de um endereço de email válido. Caso contrário, ela cria um objeto de erro personalizado contendo uma mensagem de erro e o campo de entrada relacionado.
 
